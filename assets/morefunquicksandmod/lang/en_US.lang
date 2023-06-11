@@ -1,0 +1,285 @@
+itemGroup.tabMFQM=MFQM stuff
+
+tile.Mud0.name=Mud
+tile.Mud1.name=Mud
+tile.Mud2.name=Mud
+tile.Mud3.name=Mud
+
+blockMud.Text1=Thinnish mud
+blockMud.Text2=Deep mud
+blockMud.Text3=Bottomless mud
+
+tile.Bog.name=Bog
+
+tile.Morass0.name=Moor
+tile.Morass1.name=Moor
+tile.Morass2.name=Moor
+tile.Morass3.name=Moor
+tile.Morass4.name=Moor
+tile.Morass5.name=Moor
+tile.Morass6.name=Moor
+tile.Morass7.name=Moor
+tile.Morass8.name=Moor
+tile.Morass9.name=Moor
+
+tile.SoftSnow.name=Soft Snow
+tile.SoftSand.name=Dry Quicksand
+tile.SoftQuicksand.name=Soft Quicksand
+tile.WetPeat.name=Wet Peat
+tile.HPeat.name=Peat
+
+tile.BrownClay0.name=Brown Clay
+tile.BrownClay1.name=Brown Clay
+tile.BrownClay2.name=Brown Clay
+tile.BrownClay3.name=Brown Clay
+
+tile.BrownClay4.name=Mineral Clay
+tile.BrownClay5.name=Mineral Clay
+tile.BrownClay6.name=Mineral Clay
+tile.BrownClay7.name=Mineral Clay
+
+tile.Wax.name=Wax
+tile.Quicksand.name=Quicksand
+tile.JungleQuicksand.name=Jungle Quicksand
+tile.SLiquidMire.name=Liquid Mire
+tile.LiquidMire.name=Liquid Mire
+tile.SinkingSlime.name=Sinking Slime
+tile.Mucus.name=Mucus
+tile.Mire.name=Mire
+tile.Moor.name=Temp Morass Converter
+tile.HardenedClay.name=Hardened Clay
+tile.SinkingClay.name=Sinking Clay
+tile.TangleRootMoss.name=Tangleroot Moss
+tile.DenseWeb.name=Dense Webbing
+tile.Tar.name=Tar
+tile.Larvae.name=Larvae
+tile.CorruptedSand.name=Corrupted Sand
+tile.SwallowingFlesh.name=Swallowing Flesh
+tile.Acid.name=Acid
+tile.LiquidChocolate.name=Liquid Chocolate
+tile.ChocolateBlock.name=Chocolate
+tile.Slurry.name=Slurry
+
+tile.Gas.name=Poison Gas
+
+tile.SoftGravel0.name=Soft Gravel
+tile.SoftGravel1.name=Silt Sludge
+tile.Honey.name=Honey
+tile.SolidHoney.name=Solid Honey
+
+tile.Honeycomb0.name=Honeycomb
+tile.Honeycomb1.name=Honeycomb Empty
+tile.Honeycomb2.name=Honeycomb Filled
+
+tile.Quick-Rug0.name=Sinking Rug
+tile.Quick-Rug1.name=Sinking Rug
+tile.Quick-Rug2.name=Sinking Rug
+tile.Quick-Rug3.name=Sinking Rug
+tile.Quick-Rug4.name=Sinking Rug
+tile.Quick-Rug5.name=Sinking Rug
+tile.Quick-Rug6.name=Sinking Rug
+tile.Quick-Rug7.name=Sinking Rug
+tile.Quick-Rug8.name=Sinking Rug
+tile.Quick-Rug9.name=Sinking Rug
+tile.Quick-Rug10.name=Sinking Rug
+tile.Quick-Rug11.name=Sinking Rug
+tile.Quick-Rug12.name=Sinking Rug
+tile.Quick-Rug13.name=Sinking Rug
+tile.Quick-Rug14.name=Sinking Rug
+tile.Quick-Rug15.name=Sinking Rug
+
+tile.LureBlock.name=Smelling Blossom
+
+tile.BlossomBlock0.name=Plant Wall
+tile.BlossomBlock1.name=Plant Wall
+tile.BlossomBlock2.name=Plant Wall
+tile.BlossomBlock3.name=Plant Wall
+tile.BlossomBlock4.name=Plant Wall
+tile.BlossomBlock5.name=Plant Wall
+tile.BlossomBlock6.name=Plant Wall
+tile.BlossomBlock7.name=Plant Wall
+tile.BlossomBlock8.name=Plant Wall
+tile.BlossomBlock9.name=Plant Wall
+tile.BlossomBlock10.name=Plant Wall
+tile.BlossomBlock11.name=Plant Wall
+
+tile.BlossomBlockSlab0.name=Plant Wall
+tile.BlossomBlockSlab1.name=Plant Wall
+tile.BlossomBlockSlab2.name=Plant Wall
+tile.BlossomBlockSlab3.name=Plant Wall
+tile.BlossomBlockSlab4.name=Plant Wall
+tile.BlossomBlockSlab5.name=Plant Wall
+
+tile.TempVore.name=Temp Vore Hole
+
+tile.MeatWall0.name=Flesh
+tile.MeatWall1.name=Meat Wall Bottom
+tile.MeatWall2.name=Meat Wall Conner
+tile.MeatWall3.name=Meat Wall Conner
+tile.MeatWall4.name=Meat Wall Conner
+tile.MeatWall5.name=Meat Wall Conner
+tile.MeatWall6.name=Meat Wall Side
+tile.MeatWall7.name=Meat Wall Side
+tile.MeatWall8.name=Meat Wall Side
+tile.MeatWall9.name=Meat Wall Side
+tile.MeatWall10.name=Meat Wall Gland
+
+tile.TempMeat.name=Temp Meat
+
+tile.WaxWood0.name=Wax Jungle Log
+tile.WaxWood1.name=Wax Jungle Log
+tile.WaxWood2.name=Wax Jungle Log
+tile.WaxWood3.name=Wax Jungle Log
+tile.WaxWood4.name=Wax Jungle Log
+tile.WaxWood5.name=Wax Jungle Log
+tile.WaxWood6.name=Wax Jungle Log
+tile.WaxWood7.name=Wax Jungle Log
+
+tile.CustomLilyPad.name=waterlily
+
+tile.MoorGrass0.name=Moor Grass
+tile.MoorGrass1.name=Moor Grass
+tile.MoorGrass2.name=Moor Grass
+tile.MoorGrass3.name=Bog Grass
+tile.MoorGrass4.name=Bog Grass
+tile.MoorGrass5.name=Cranberry Grass
+
+tile.Tendrils0.name=Tendrils
+tile.Tendrils1.name=Tendrils
+tile.Tendrils2.name=Tendrils
+tile.Tendrils3.name=Tendrils
+
+tile.LeavesPile.name=Dead Leaves Pile
+
+fluid.Acid=Acid
+fluid.SandFluid=Sand
+fluid.Bog=Bog
+fluid.LiquidChocolate=Chocolate
+fluid.LiquidMire=Liquid Mire
+fluid.LiquidMireS=Liquid Mire
+fluid.MucusFluid=MucusFluid
+fluid.JungleQuicksand=Quicksand
+fluid.SlimeFluid=Slime
+fluid.Tar=Tar
+fluid.Slurry=Slurry
+fluid.Honey=Honey
+
+item.BucketOfLiquidBog.name=Bucket of Liquid Bog
+
+item.BucketOfClay.BucketofBrownClay.name=Bucket of Brown Clay
+item.BucketOfClay.BucketofMineralClay.name=Bucket of Mineral Clay
+item.BucketOfClay.Errorbucket.name=Error bucket
+
+item.BucketOfQuicksand.name=Bucket of Quicksand
+item.BucketOfSand.name=Bucket of Sand
+item.BucketOfMire.name=Bucket of Mire
+item.BucketOfSlime.name=Bucket of Slime
+item.BucketOfMucus.name=Bucket of Mucus
+item.BucketOfTar.name=Bucket of Tar
+item.BucketOfAcid.name=Bucket of Acid
+item.BucketOfChocolate.name=Bucket of Chocolate
+item.BucketOfChocolatePowder.name=Bucket of Chocolate Powder
+item.BucketOfSlurry.name=Bucket of Slurry
+item.BucketOfHoney.name=Bucket of Honey
+
+item.LongStick.name=Long Stick
+item.Rescuing.name=Rescuing
+item.Rope.name=Rope
+item.Cable.name=Cable
+item.Coil.name=Coil
+item.Hook.name=Hook
+item.GrapplingHook.name=Grappling Hook
+item.GrapplingHookBRK.name=Grappling Hook Broken
+item.WaxPiece.name=Wax
+item.LifeJacket.name=Life Jacket
+item.PeatItem.name=Peat
+item.LarvaRaw.name=Larva Raw
+item.LarvaCooked.name=Larva Cooked
+item.Cranberry.name=Cranberry
+item.Fertilizer.name=Fertilizer
+
+item.Emptycomb.name=Empty Honeycomb
+item.HoneycombItem.name=Filled Honeycomb
+
+item.Donut0.name=Donut
+item.Donut1.name=Glazed Donut
+item.Donut2.name=Glazed Donut With Sprinkles
+item.Donut3.name=Pink Donut With Sprinkles
+item.Donut4.name=Chocolate Donut
+
+item.Potion.BottleofMire.name=Bottle of Mire
+item.Potion.SinkingPotion.name=Sinking Potion
+item.Potion.HotChocolate.name=Hot Chocolate
+item.Potion.ErrorPotion.name=Error Potion
+
+itemSinkingPotion.Text=Some viscous and sticky substance
+itemHotChocolate.Text=Warm and sweet treat in a glass
+
+item.wadingBoots.name=Wading Boots
+item.preWadingBoots0.name=Tall Leather Boots
+item.preWadingBoots1.name=Slimy Tall Leather Boots
+
+item.GasMask.name=Gas Mask
+item.Filter.name=Filter
+
+item.LiqGunItem.name=Liquid Gun
+
+entity.VoreSlime.name=Vore Slime
+
+entity.MuddyBlob.name=Muddy Blob
+entity.SandBlob.name=Sandy Blob
+entity.TarSlime.name=Tar Slime
+entity.Bee.name=Bee
+
+potion.Mired=Mired
+
+itemLiqGun.empty=Empty
+itemLiqGun.maybewater=Maybe Water
+itemLiqGun.instruction1=Funny toy which able to store and spit
+itemLiqGun.instruction2=any "liquid" you could find in the world
+
+itemGrapplingHook.instruction1=Cant be used in Creative
+itemGrapplingHook.instruction2=Can be attached to any solid material
+itemGrapplingHook.instruction3=excluding sand and foliage
+itemGrapplingHook.instruction4=Controls
+itemGrapplingHook.instruction5=RMB
+itemGrapplingHook.instruction6=shoot the hook
+itemGrapplingHook.instruction7=Jump/LMB
+itemGrapplingHook.instruction8=rewind the cable
+itemGrapplingHook.instruction9=Crouch/MMB
+itemGrapplingHook.instruction10=release the cable
+
+itemGrapplingHookBRK.instruction1=The Hook is broken
+itemGrapplingHookBRK.instruction2=Can be fixed
+
+itemLifeJacket.instruction1=Gives you buoyancy in water
+itemLifeJacket.instruction2=prevents you from sinking
+itemLifeJacket.instruction3=Works in some forms of quicksand
+itemLifeJacket.instruction4=Hold Crouch button
+itemLifeJacket.instruction5=for sinking
+
+itemLongStick.instruction1=Can be use as walking stick for testing
+itemLongStick.instruction2=the ground in front of you
+itemLongStick.instruction3=Also gives you much more stable footing that
+itemLongStick.instruction4=increases your chance for surviving quicksand
+itemLongStick.instruction5=Controls
+itemLongStick.instruction6=RMB CLK
+itemLongStick.instruction7=Test ground
+itemLongStick.instruction8=RMB HOLD
+itemLongStick.instruction9=Increase chance for successful struggling
+
+itemRope.instruction1=Cant be used with Creative
+itemRope.instruction2=Can be attached around solid columns
+itemRope.instruction3=and edges, or into the leaves
+itemRope.instruction4=Controls
+itemRope.instruction5=RMB
+itemRope.instruction6=throw the rope
+itemRope.instruction7=Jump
+itemRope.instruction8=pull the rope
+itemRope.instruction9=Crouch/MMB
+itemRope.instruction10=release the rope
+
+itemWaxPiece.instruction1=It's melting in your hands
+itemFertilizer.instruction1=Twice better than Bone Meal
+
+itemGasMask.instruction=Basic protection for your breathing

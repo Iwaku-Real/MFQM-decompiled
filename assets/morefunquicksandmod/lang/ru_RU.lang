@@ -1,0 +1,283 @@
+﻿itemGroup.tabMFQM=предметы из MFQM
+
+tile.Mud0.name=Грязь
+tile.Mud1.name=Грязь
+tile.Mud2.name=Грязь
+tile.Mud3.name=Грязь
+
+blockMud.Text1=Водянистая грязь
+blockMud.Text2=Глубокая грязь
+blockMud.Text3=Бездонная грязь
+
+tile.Bog.name=Болото
+tile.SoftSnow.name=Неплотный снег
+tile.SoftSand.name=Сыпучий песок
+tile.SoftQuicksand.name=Вязкий зыбучий песок
+tile.WetPeat.name=Жидкий торф
+tile.HPeat.name=Торф
+
+tile.Morass0.name=Торфяник
+tile.Morass1.name=Торфяник
+tile.Morass2.name=Торфяник
+tile.Morass3.name=Торфяник
+tile.Morass4.name=Торфяник
+tile.Morass5.name=Торфяник
+tile.Morass6.name=Торфяник
+tile.Morass7.name=Торфяник
+tile.Morass8.name=Торфяник
+tile.Morass9.name=Торфяник
+
+tile.BrownClay0.name=Коричневая глина
+tile.BrownClay1.name=Коричневая глина
+tile.BrownClay2.name=Коричневая глина
+tile.BrownClay3.name=Коричневая глина
+
+tile.BrownClay4.name=Минеральная глина
+tile.BrownClay5.name=Минеральная глина
+tile.BrownClay6.name=Минеральная глина
+tile.BrownClay7.name=Минеральная глина
+
+tile.Wax.name=Воск
+tile.Quicksand.name=Зыбучий песок
+tile.JungleQuicksand.name=Зыбучий песок джунглей
+tile.SLiquidMire.name=Жидкая грязь
+tile.LiquidMire.name=Жидкая грязь
+tile.SinkingSlime.name=Жидкая слизь
+tile.Mucus.name=Ферментный сок
+tile.Mire.name=Трясина
+tile.Moor.name=Temp Morass Converter
+tile.HardenedClay.name=Отвердевшая глина
+tile.SinkingClay.name=Топкая глина
+tile.TangleRootMoss.name=Цепкий мох
+tile.DenseWeb.name=Плотная паутина
+tile.Tar.name=Деготь
+tile.Larvae.name=Рой личинок
+tile.CorruptedSand.name=Проклятый песок
+tile.SwallowingFlesh.name=Пожирающая плоть
+tile.Acid.name=Кислота
+tile.LiquidChocolate.name=Жидкий шоколад
+tile.ChocolateBlock.name=Шоколад
+tile.Slurry.name=Шламовая жижа
+
+tile.Gas.name=Ядовитый газ
+
+tile.SoftGravel0.name=Зыбкий гравий
+tile.SoftGravel1.name=Вязкий ил
+tile.Honey.name=Мед
+tile.SolidHoney.name=Отвердевший мед
+
+tile.Honeycomb0.name=Соты
+tile.Honeycomb1.name=Пустые соты
+tile.Honeycomb2.name=Медовые соты
+
+tile.Quick-Rug0.name=Поглощающий ковер
+tile.Quick-Rug1.name=Поглощающий ковер
+tile.Quick-Rug2.name=Поглощающий ковер
+tile.Quick-Rug3.name=Поглощающий ковер
+tile.Quick-Rug4.name=Поглощающий ковер
+tile.Quick-Rug5.name=Поглощающий ковер
+tile.Quick-Rug6.name=Поглощающий ковер
+tile.Quick-Rug7.name=Поглощающий ковер
+tile.Quick-Rug8.name=Поглощающий ковер
+tile.Quick-Rug9.name=Поглощающий ковер
+tile.Quick-Rug10.name=Поглощающий ковер
+tile.Quick-Rug11.name=Поглощающий ковер
+tile.Quick-Rug12.name=Поглощающий ковер
+tile.Quick-Rug13.name=Поглощающий ковер
+tile.Quick-Rug14.name=Поглощающий ковер
+tile.Quick-Rug15.name=Поглощающий ковер
+
+tile.LureBlock.name=Душистое семя
+
+tile.BlossomBlock0.name=Ствол душистого цветка
+tile.BlossomBlock1.name=Ствол душистого цветка
+tile.BlossomBlock2.name=Ствол душистого цветка
+tile.BlossomBlock3.name=Ствол душистого цветка
+tile.BlossomBlock4.name=Ствол душистого цветка
+tile.BlossomBlock5.name=Ствол душистого цветка
+tile.BlossomBlock6.name=Ствол душистого цветка
+tile.BlossomBlock7.name=Ствол душистого цветка
+tile.BlossomBlock8.name=Ствол душистого цветка
+tile.BlossomBlock9.name=Ствол душистого цветка
+tile.BlossomBlock10.name=Ствол душистого цветка
+tile.BlossomBlock11.name=Ствол душистого цветка
+
+tile.BlossomBlockSlab0.name=Листок душистого цветка
+tile.BlossomBlockSlab1.name=Листок душистого цветка
+tile.BlossomBlockSlab2.name=Листок душистого цветка
+tile.BlossomBlockSlab3.name=Листок душистого цветка
+tile.BlossomBlockSlab4.name=Листок душистого цветка
+tile.BlossomBlockSlab5.name=Листок душистого цветка
+
+tile.TempVore.name=Temp Vore Hole
+
+tile.MeatWall0.name=Плоть
+tile.MeatWall1.name=Низ стены плоти
+tile.MeatWall2.name=Угол стены плоти
+tile.MeatWall3.name=Угол стены плоти
+tile.MeatWall4.name=Угол стены плоти
+tile.MeatWall5.name=Угол стены плоти
+tile.MeatWall6.name=Бок стены плоти
+tile.MeatWall7.name=Бок стены плоти
+tile.MeatWall8.name=Бок стены плоти
+tile.MeatWall9.name=Бок стены плоти
+tile.MeatWall10.name=Железа стены плоти
+
+tile.TempMeat.name=Temp Meat
+
+tile.WaxWood0.name=Восковое тропическое дерево 
+tile.WaxWood1.name=Восковое тропическое дерево
+tile.WaxWood2.name=Восковое тропическое дерево
+tile.WaxWood3.name=Восковое тропическое дерево
+tile.WaxWood4.name=Восковое тропическое дерево
+tile.WaxWood5.name=Восковое тропическое дерево
+tile.WaxWood6.name=Восковое тропическое дерево
+tile.WaxWood7.name=Восковое тропическое дерево
+
+tile.CustomLilyPad.name=Кувшинка
+
+tile.MoorGrass0.name=Болотная трава
+tile.MoorGrass1.name=Болотная трава
+tile.MoorGrass2.name=Болотная трава
+tile.MoorGrass3.name=Болотная трава
+tile.MoorGrass4.name=Болотная трава
+tile.MoorGrass5.name=Куст клюквы
+
+tile.Tendrils0.name=Усики
+tile.Tendrils1.name=Усики
+tile.Tendrils2.name=Усики
+tile.Tendrils3.name=Усики
+
+tile.LeavesPile.name=Листья
+
+fluid.Acid=Кислота
+fluid.SandFluid=Песок
+fluid.Bog=Болото
+fluid.LiquidChocolate=Шоколад
+fluid.LiquidMire=Жидкая грязь
+fluid.LiquidMireS=Жидкая грязь
+fluid.MucusFluid=Ферментный сок
+fluid.JungleQuicksand=Зыбучий песок
+fluid.SlimeFluid=Слизь
+fluid.Tar=Деготь
+fluid.Slurry=Шламовая жижа
+fluid.Honey=Мед
+
+item.BucketOfLiquidBog.name=Ведро жидкого болота
+
+item.BucketOfClay.BucketofBrownClay.name=Ведро коричневой глины
+item.BucketOfClay.BucketofMineralClay.name=Ведро минеральной глины
+item.BucketOfClay.Errorbucket.name=Ошибочное ведро
+
+item.BucketOfQuicksand.name=Ведро зыбучего песка
+item.BucketOfSand.name=Ведро песка
+item.BucketOfMire.name=Ведро жидкой грязи
+item.BucketOfSlime.name=Ведро слизи
+item.BucketOfMucus.name=Ведро ферментного сока
+item.BucketOfTar.name=Ведро дегтя
+item.BucketOfAcid.name=Ведро кислоты
+item.BucketOfChocolate.name=Ведро шоколада
+item.BucketOfChocolatePowder.name=Ведро шоколадного порошка
+item.BucketOfSlurry.name=Ведро шламовой жижи
+item.BucketOfHoney.name=Ведро меда
+
+item.LongStick.name=Удлиненная палка
+item.Rescuing.name=Спасение
+item.Rope.name=Верёвка
+item.Cable.name=Трос
+item.Coil.name=Катушка
+item.Hook.name=Крюк
+item.GrapplingHook.name=Абордажный крюк
+item.GrapplingHookBRK.name=Сломаный абордажный крюк
+item.WaxPiece.name=Воск
+item.LifeJacket.name=Спасательный жилет
+item.PeatItem.name=Торф
+item.LarvaRaw.name=Личинка
+item.LarvaCooked.name=Приготовленная личинка
+item.Cranberry.name=Клюква
+item.Fertilizer.name=Удобрение
+
+item.Emptycomb.name=Соты
+item.HoneycombItem.name=Медовые соты
+
+item.Donut0.name=Пончик
+item.Donut1.name=Глазированный пончик
+item.Donut2.name=Глазированный пончик с посыпкой
+item.Donut3.name=Розовый пончик с посыпкой
+item.Donut4.name=Шоколадный пончик
+
+item.Potion.BottleofMire.name=Колба жидкой грязи
+item.Potion.SinkingPotion.name=Зелье зыбучести
+item.Potion.HotChocolate.name=Горячий шоколад
+item.Potion.ErrorPotion.name=Ошибочное зелье
+
+itemSinkingPotion.Text=Что-то вязкое и липкое
+itemHotChocolate.Text=Теплая и сладкая радость в стакане
+
+item.wadingBoots.name=Болотные сапоги
+item.preWadingBoots0.name=Высокие кожаные сапоги
+item.preWadingBoots1.name=Сапоги со слоем слизи
+
+item.GasMask.name=Зацитная маска
+item.Filter.name=Фильтр
+
+item.LiqGunItem.name=Водяная пушка
+
+entity.VoreSlime.name=Поглащающий слизень
+entity.MuddyBlob.name=Грязевой слизень
+entity.SandBlob.name=Песчанный слизень
+entity.TarSlime.name=Дегтевый слизень
+entity.Bee.name=Пчела
+
+potion.Mired=Увяз
+
+itemLiqGun.empty=Пусто
+itemLiqGun.maybewater=Может быть Вода
+itemLiqGun.instruction1=Веселая игрушка способная хранить и выплевывать
+itemLiqGun.instruction2=любую "жидкость" которую возможно найти в мире
+
+itemGrapplingHook.instruction1=Не возможно использовать в режиме Творчества
+itemGrapplingHook.instruction2=Может быть прикреплен к любой твердой поверхности
+itemGrapplingHook.instruction3=исключая песок и листву
+itemGrapplingHook.instruction4=Управление
+itemGrapplingHook.instruction5=ПКМ
+itemGrapplingHook.instruction6=выстрелить крюк
+itemGrapplingHook.instruction7=Прыжок/ЛКМ
+itemGrapplingHook.instruction8=смотать трос
+itemGrapplingHook.instruction9=Присесть/СКМ
+itemGrapplingHook.instruction10=размотать трос
+
+itemGrapplingHookBRK.instruction1=Он сломан
+itemGrapplingHookBRK.instruction2=Можно починить
+
+itemLifeJacket.instruction1=Увеличивает вашу плавучесть
+itemLifeJacket.instruction2=предотвращает погружение
+itemLifeJacket.instruction3=Работает не во всех типах песков
+itemLifeJacket.instruction4=Зажататая кнопка Присесть
+itemLifeJacket.instruction5=дает возможность погрузиться
+
+itemLongStick.instruction1=Можно использовать для проверки
+itemLongStick.instruction2=плотности земли перед вами
+itemLongStick.instruction3=Дает вам надежную опору, что увеличит
+itemLongStick.instruction4=ваши шансы на выживание в песках
+itemLongStick.instruction5=Управление
+itemLongStick.instruction6=Нажатие ЛКМ
+itemLongStick.instruction7=Проверить плотность
+itemLongStick.instruction8=Зажатая ПКМ
+itemLongStick.instruction9=Увеличивает шанс выбраться из песка
+
+itemRope.instruction1=Не возможно использовать в режиме Творчества
+itemRope.instruction2=Может быть обмотана вокруг твердых столбов
+itemRope.instruction3=края или листьев
+itemRope.instruction4=Управление
+itemRope.instruction5=ПКМ
+itemRope.instruction6=кинуть верёвку
+itemRope.instruction7=Прыжок
+itemRope.instruction8=тянуть/карабкаться
+itemRope.instruction9=Присесть/СКМ
+itemRope.instruction10=отпускать
+
+itemWaxPiece.instruction1=Тает в руках
+itemFertilizer.instruction1=Вдвойне сильнее чем костная мука
+
+itemGasMask.instruction=Базовая защита для дыхания

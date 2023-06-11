@@ -1,0 +1,14 @@
+{
+  "mob.bee.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "mob/bee/hurt"
+    ]
+  },
+  "mob.bee.say": {
+    "category": "hostile",
+    "sounds": [
+      "mob/bee/say"
+    ]
+  }
+}
